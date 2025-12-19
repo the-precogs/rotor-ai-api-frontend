@@ -1,0 +1,32 @@
+# Backend (FastAPI)
+fastapi
+uvicorn[standard]
+
+# Frontend (Streamlit)
+streamlit
+
+# Visualization
+matplotlib
+
+# Core ML / DL dependencies
+tensorflow
+numpy
+pandas
+scikit-learn
+sktime
+numba
+
+# Saving models
+joblib
+
+# Real-time data
+pyserial
+
+# For Streamlit → FastAPI communication
+requests
+
+# Optional: for Pydantic validation (FastAPI uses this)
+pydantic
+
+# Optional but recommended
+python-multipart
