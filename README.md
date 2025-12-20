@@ -14,7 +14,7 @@ An API that serves the RotorAI model and a frontend that communicates with the A
 ├── app/                               <- Contains the FastAPI code.
 │   ├── models/                        <- Contains models.
 │   │   └── best_model.keras
-│   ├── normalization_params/          <- Contains standardization parameters used during training.
+│   ├── normalization_params/          <- Contains standardization parameters learnt during training.
 │   │   ├── freq_mean.npy
 │   │   ├── freq_std.npy
 │   │   ├── time_mean.npy
